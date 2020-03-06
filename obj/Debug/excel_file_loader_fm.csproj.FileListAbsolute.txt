@@ -1,0 +1,15 @@
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\Debug\excel_file_loader_fm.exe
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\Debug\excel_file_loader_fm.pdb
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.csprojAssemblyReference.cache
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.Form1.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.Properties.Resources.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.csproj.GenerateResource.cache
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.csproj.CoreCompileInputs.cache
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.exe
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.pdb
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\Debug\SpreadsheetLight.dll
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\Debug\SpreadsheetLight.xml
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.csproj.CopyComplete
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\Debug\excel_file_loader_fm.exe.config
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.Form2.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\Debug\excel_file_loader_fm.Form3.resources

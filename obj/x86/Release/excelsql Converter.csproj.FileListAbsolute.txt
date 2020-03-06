@@ -1,0 +1,12 @@
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\x86\Release\excel_file_loader_fm.exe.config
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\x86\Release\excel_file_loader_fm.exe
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\bin\x86\Release\excel_file_loader_fm.pdb
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excel_file_loader_fm.Form1.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excel_file_loader_fm.Form2.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excel_file_loader_fm.Form3.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excel_file_loader_fm.Form4.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excel_file_loader_fm.Properties.Resources.resources
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excelsql Converter.csproj.GenerateResource.cache
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excelsql Converter.csproj.CoreCompileInputs.cache
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excel_file_loader_fm.exe
+C:\Users\Chacha\source\repos\excel_file_loader_fm\excel_file_loader_fm\obj\x86\Release\excel_file_loader_fm.pdb
